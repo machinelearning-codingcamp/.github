@@ -115,3 +115,29 @@ Build a deep learning model and deploy across multiple platforms.
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+
+```
+
+# 📄 License
+
+This project is part of the **Machine Learning Learning Path - Dicoding x DBS** and is intended for educational and portfolio purposes only.
+
+## 🔓 License Type: MIT License
+
+You are free to:
+
+- ✅ Use and modify the code for learning and non-commercial purposes
+- ✅ Fork and share this repository
+- ✅ Include this in your portfolio (with proper attribution)
+
+You are **not allowed** to:
+
+- ❌ Sell or commercialize this project directly
+- ❌ Misrepresent authorship or ownership of the work
+
+## ℹ️ Attribution
+
+Developed by **Nadia Putri Natali Lubis** as part of Dicoding x DBS Capstone submissions.  
+Some datasets or pretrained models used are subject to their own licenses (see each submodule for details).
+
+For commercial use or inquiries, please contact the project owner.
